@@ -2,8 +2,8 @@
 Using React to bulid the front-end framework based on Antd.
 data: Implement the data interface request with axios (simulate the data with a local JSON)
 ## Main
-![image](https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather1.gif)
-<img src="https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather1.gif" width="150" height="200" alt="main"/><br/>
+
+<img src="https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather1.gif" width="200" height="300" alt="main"/><br/>
 ## Select hot city
 ![image](https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather2.gif)
 
