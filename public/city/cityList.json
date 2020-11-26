@@ -1,0 +1,449 @@
+{
+  "success": true,
+  "citys": [
+    {
+      "id": 1,
+      "citysName": "Auckland Central,Auckland"
+    },
+    {
+      "id": 2,
+      "citysName": "Hunua,Auckland"
+    },
+    {
+      "id": 3,
+      "citysName": "Kumeu,Auckland"
+    },
+    {
+      "id": 4,
+      "citysName": "Manukau,Auckland"
+    },
+    {
+      "id": 5,
+      "citysName": "North Shore,Auckland"
+    },
+    {
+      "id": 6,
+      "citysName": "Pukekohe,Auckland"
+    },
+    {
+      "id": 8,
+      "citysName": "Waitakere,Auckland"
+    },
+    {
+      "id": 9,
+      "citysName": "Warkworth,Auckland"
+    },
+    {
+      "id": 10,
+      "citysName": "Dargaville,Northland"
+    },
+    {
+      "id": 11,
+      "citysName": "Kaikohe,Northland"
+    },
+    {
+      "id": 12,
+      "citysName": "Kaitaia,Northland"
+    },
+    {
+      "id": 13,
+      "citysName": "Kaitaia Airport,Northland"
+    },
+    {
+      "id": 14,
+      "citysName": "Kerikeri,Northland"
+    },
+    {
+      "id": 15,
+      "citysName": "Paihia,Northland"
+    },
+    {
+      "id": 16,
+      "citysName": "Whangārei,Northland"
+    },
+    {
+      "id": 17,
+      "citysName": "Hamilton,Waikato"
+    },
+    {
+      "id": 18,
+      "citysName": "Matamata,Waikato"
+    },
+    {
+      "id": 19,
+      "citysName": "Paeroa,Waikato"
+    },
+    {
+      "id": 20,
+      "citysName": "Te Awamutu,Waikato"
+    },
+    {
+      "id": 21,
+      "citysName": "Tokoroa,Waikato"
+    },
+    {
+      "id": 22,
+      "citysName": "Te Kuiti,Waitomo"
+    },
+    {
+      "id": 23,
+      "citysName": "Thames,Coromandel"
+    },
+    {
+      "id": 24,
+      "citysName": "Whitianga,Coromandel"
+    },
+    {
+      "id": 25,
+      "citysName": "Rotorua,Rotorua"
+    },
+    {
+      "id": 26,
+      "citysName": "Tauranga,Bay of Plenty"
+    },
+    {
+      "id": 27,
+      "citysName": "Te Puke,Bay of Plenty"
+    },
+    {
+      "id": 28,
+      "citysName": "Whakatāne,Bay of Plenty"
+    },
+    {
+      "id": 29,
+      "citysName": "Taupō,Taupō"
+    },
+    {
+      "id": 30,
+      "citysName": "Taupō Airport,Taupō"
+    },
+    {
+      "id": 31,
+      "citysName": "Gisborne,Gisborne"
+    },
+    {
+      "id": 32,
+      "citysName": "Ruatoria,Gisborne"
+    },
+    {
+      "id": 33,
+      "citysName": "Eastern Rangitaiki,Hawke's Bay "
+    },
+    {
+      "id": 34,
+      "citysName": "Hastings,Hawke's Bay"
+    },
+    {
+      "id": 35,
+      "citysName": "Mahia,Hawke's Bay"
+    },
+    {
+      "id": 36,
+      "citysName": "Napier,Hawke's Bay"
+    },
+    {
+      "id": 37,
+      "citysName": "Napier Airport,Hawke's Bay"
+    },
+    {
+      "id": 38,
+      "citysName": "Waipukurau,Hawke's Bay"
+    },
+    {
+      "id": 39,
+      "citysName": "Wairoa,Hawke's Bay"
+    },
+    {
+      "id": 40,
+      "citysName": "Hāwera,Taranaki"
+    },
+    {
+      "id": 41,
+      "citysName": "New Plymouth,Taranaki"
+    },
+    {
+      "id": 42,
+      "citysName": "New Plymouth Airport,Taranaki"
+    },
+    {
+      "id": 43,
+      "citysName": "Taumarunui,Taumarunui"
+    },
+    {
+      "id": 44,
+      "citysName": "Waiouru,Taihape"
+    },
+    {
+      "id": 45,
+      "citysName": "Whanganui,Whanganui"
+    },
+    {
+      "id": 46,
+      "citysName": "Whanganui Airport,Whanganui"
+    },
+    {
+      "id": 47,
+      "citysName": "Ohakea,Manawatu"
+    },
+    {
+      "id": 48,
+      "citysName": "Palmerston North,Manawatu"
+    },
+    {
+      "id": 49,
+      "citysName": "Palmerston North Airport,Manawatu"
+    },
+    {
+      "id": 50,
+      "citysName": "Castlepoint,Wairarap"
+    },
+    {
+      "id": 51,
+      "citysName": "Dannevirke,Wairarapa"
+    },
+    {
+      "id": 52,
+      "citysName": "Martinborough,Wairarapa"
+    },
+    {
+      "id": 53,
+      "citysName": "Masterton,Wairarapa"
+    },
+    {
+      "id": 54,
+      "citysName": "Levin,Kapiti-Horowhenua"
+    },
+    {
+      "id": 55,
+      "citysName": "Paraparaumu,Kapiti-Horowhenua"
+    },
+    {
+      "id": 56,
+      "citysName": "Te Horo,Kapiti-Horowhenua"
+    },
+    {
+      "id": 57,
+      "citysName": "Waikanae,Kapiti-Horowhenua"
+    },
+    {
+      "id": 58,
+      "citysName": "Ōtaki,Kapiti-Horowhenua"
+    },
+    {
+      "id": 59,
+      "citysName": "Judgeford,Wellington"
+    },
+    {
+      "id": 60,
+      "citysName": "Lower Hutt,Wellington"
+    },
+    {
+      "id": 61,
+      "citysName": "Lyall Bay,Wellington"
+    },
+    {
+      "id": 62,
+      "citysName": "Ohariu Valley,Wellington"
+    },
+    {
+      "id": 63,
+      "citysName": "Porirua,Wellington"
+    },
+    {
+      "id": 64,
+      "citysName": "Upper Hutt,Wellington"
+    },
+    {
+      "id": 65,
+      "citysName": "Wainuiomata,Wellington"
+    },
+    {
+      "id": 66,
+      "citysName": "Wellington Central,Wellington"
+    },
+    {
+      "id": 67,
+      "citysName": "Blenheim,Marlborough"
+    },
+    {
+      "id": 68,
+      "citysName": "Kaikōura,Marlborough"
+    },
+    {
+      "id": 69,
+      "citysName": "Kaikōura Airport,Marlborough"
+    },
+    {
+      "id": 70,
+      "citysName": "Picton,Marlborough"
+    },
+    {
+      "id": 71,
+      "citysName": "Motueka,Nelson"
+    },
+    {
+      "id": 72,
+      "citysName": "Nelson,Nelson"
+    },
+    {
+      "id": 73,
+      "citysName": "Takaka,Nelson"
+    },
+    {
+      "id": 74,
+      "citysName": "Reefton,Buller"
+    },
+    {
+      "id": 75,
+      "citysName": "Westport,Buller"
+    },
+    {
+      "id": 76,
+      "citysName": "Franz Josef,Westland"
+    },
+    {
+      "id": 77,
+      "citysName": "Greymouth,Westland"
+    },
+    {
+      "id": 78,
+      "citysName": "Haast,Westland"
+    },
+    {
+      "id": 79,
+      "citysName": "Hokitika,Westland"
+    },
+    {
+      "id": 80,
+      "citysName": "Ashburton,Canterbury Plains"
+    },
+    {
+      "id": 81,
+      "citysName": "Darfield,Canterbury Plains"
+    },
+    {
+      "id": 82,
+      "citysName": "Methven,Canterbury Plains"
+    },
+    {
+      "id": 83,
+      "citysName": "Rakaia,Canterbury Plains"
+    },
+    {
+      "id": 84,
+      "citysName": "Timaru,Canterbury Plains"
+    },
+    {
+      "id": 85,
+      "citysName": "Waipara,Canterbury Plains"
+    },
+    {
+      "id": 86,
+      "citysName": "Culverden,Canterbury High Country"
+    },
+    {
+      "id": 87,
+      "citysName": "Mount Cook,Canterbury High Country"
+    },
+    {
+      "id": 88,
+      "citysName": "Omarama,Canterbury High Country"
+    },
+    {
+      "id": 89,
+      "citysName": "Twizel,Canterbury High Country"
+    },
+    {
+      "id": 90,
+      "citysName": "Banks Peninsula,Christchurch"
+    },
+    {
+      "id": 91,
+      "citysName": "Christchurch Central,Christchurch"
+    },
+    {
+      "id": 92,
+      "citysName": "Eastern Suburbs,Christchurch"
+    },
+    {
+      "id": 93,
+      "citysName": "Hilltop,Christchurch"
+    },
+    {
+      "id": 94,
+      "citysName": "Lincoln,Christchurch"
+    },
+    {
+      "id": 95,
+      "citysName": "Marshland,Christchurch"
+    },
+    {
+      "id": 96,
+      "citysName": "Port Hills,Christchurch"
+    },
+    {
+      "id": 97,
+      "citysName": "Oamaru,North Otago"
+    },
+    {
+      "id": 98,
+      "citysName": "Oamaru Airport,North Otago"
+    },
+    {
+      "id": 99,
+      "citysName": "Alexandra,Central Otago"
+    },
+    {
+      "id": 100,
+      "citysName": "Dunedin,Dunedin"
+    },
+    {
+      "id": 101,
+      "citysName": "Middlemarch,Dunedin"
+    },
+    {
+      "id": 102,
+      "citysName": "Mosgiel,Dunedin"
+    },
+    {
+      "id": 103,
+      "citysName": "Waitati,Dunedin"
+    },
+    {
+      "id": 104,
+      "citysName": "Nugget Point,Clutha"
+    },
+    {
+      "id": 105,
+      "citysName": "Queenstown,Southern Lakes"
+    },
+    {
+      "id": 106,
+      "citysName": "Wanaka,Southern Lakes"
+    },
+    {
+      "id": 7,
+      "citysName": "Gore,Southland"
+    },
+    {
+      "id": 107,
+      "citysName": "Invercargill,Southland"
+    },
+    {
+      "id": 108,
+      "citysName": "Lumsden,Southland"
+    },
+    {
+      "id": 109,
+      "citysName": "Milford Sound,Southland"
+    },
+    {
+      "id": 110,
+      "citysName": "Stewart Island,Southland"
+    },
+    {
+      "id": 111,
+      "citysName": "Te Anau,Southland"
+    }
+  ]
+}
