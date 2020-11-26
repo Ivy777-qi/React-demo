@@ -4,6 +4,7 @@ data: Implement the data interface request with axios (simulate the data with a 
 ## Main
 
 <img src="https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather1.gif" width="250" height="350" alt="main"/>
+
 ## Select hot city
 <img src="https://github.com/Ivy777-qi/React-weather-demo/blob/master/image/weather2.gif" width="250" height="350" alt="hotcity"/>
 
