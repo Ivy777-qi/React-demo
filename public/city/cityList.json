@@ -45,10 +45,7 @@
       "id": 12,
       "citysName": "Kaitaia,Northland"
     },
-    {
-      "id": 13,
-      "citysName": "Kaitaia Airport,Northland"
-    },
+
     {
       "id": 14,
       "citysName": "Kerikeri,Northland"
@@ -114,10 +111,6 @@
       "citysName": "Taupō,Taupō"
     },
     {
-      "id": 30,
-      "citysName": "Taupō Airport,Taupō"
-    },
-    {
       "id": 31,
       "citysName": "Gisborne,Gisborne"
     },
@@ -142,10 +135,6 @@
       "citysName": "Napier,Hawke's Bay"
     },
     {
-      "id": 37,
-      "citysName": "Napier Airport,Hawke's Bay"
-    },
-    {
       "id": 38,
       "citysName": "Waipukurau,Hawke's Bay"
     },
@@ -162,10 +151,6 @@
       "citysName": "New Plymouth,Taranaki"
     },
     {
-      "id": 42,
-      "citysName": "New Plymouth Airport,Taranaki"
-    },
-    {
       "id": 43,
       "citysName": "Taumarunui,Taumarunui"
     },
@@ -176,10 +161,6 @@
     {
       "id": 45,
       "citysName": "Whanganui,Whanganui"
-    },
-    {
-      "id": 46,
-      "citysName": "Whanganui Airport,Whanganui"
     },
     {
       "id": 47,
@@ -234,10 +215,6 @@
       "citysName": "Judgeford,Wellington"
     },
     {
-      "id": 60,
-      "citysName": "Lower Hutt,Wellington"
-    },
-    {
       "id": 61,
       "citysName": "Lyall Bay,Wellington"
     },
@@ -268,10 +245,6 @@
     {
       "id": 68,
       "citysName": "Kaikōura,Marlborough"
-    },
-    {
-      "id": 69,
-      "citysName": "Kaikōura Airport,Marlborough"
     },
     {
       "id": 70,
@@ -354,12 +327,8 @@
       "citysName": "Twizel,Canterbury High Country"
     },
     {
-      "id": 90,
-      "citysName": "Banks Peninsula,Christchurch"
-    },
-    {
       "id": 91,
-      "citysName": "Christchurch Central,Christchurch"
+      "citysName": "Christchurch,Christchurch"
     },
     {
       "id": 92,
@@ -384,10 +353,6 @@
     {
       "id": 97,
       "citysName": "Oamaru,North Otago"
-    },
-    {
-      "id": 98,
-      "citysName": "Oamaru Airport,North Otago"
     },
     {
       "id": 99,
